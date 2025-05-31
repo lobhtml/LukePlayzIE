@@ -2,7 +2,7 @@
 
 Updated 31/05/2025
 
-![Pokemon Petalburg Challenge](poke-stuff/img/ruby-challenge.jpg)
+![Pokemon Petalburg Challenge](img/ruby-challenge.jpg)
 
 ### Overview
 
