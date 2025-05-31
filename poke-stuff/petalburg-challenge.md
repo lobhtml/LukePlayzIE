@@ -1,6 +1,6 @@
 # Pokemon Petalburg Challenge (Gen 3)
 
-Updated 30/05/2025
+Updated 31/05/2025
 
 ### Overview
 
