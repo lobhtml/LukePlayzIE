@@ -2,6 +2,8 @@
 
 Updated 31/05/2025
 
+![Pokemon Petalburg Challenge](poke-stuff/img/ruby-challenge.jpg)
+
 ### Overview
 
 You haven’t quite adjusted to the Hoenn region just yet. To help you on your journey to becoming the Champion, you decide to assemble a team of Pokemon that remind you of your new home in Littleroot Town. You also feel bad for defeating the Poochyena that attacked Professor Birch. This Pokemon will now be your new proxy first partner as part of the Challenge!
