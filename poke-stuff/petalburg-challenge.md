@@ -22,7 +22,6 @@ This is a fun, narrative-driven challenge and therefore there are no Nuzlocke-st
   
 5. As soon as the player is gifted a Poke Ball, they must catch a wild Poochyena on Route 101 and store their Gen 3 first partner in the PC for the remainder of the game
   
-
 ### Notes
 
 - The wild areas you will have access to are Route 101, Route 102, Route 103 and the water areas within Petalburg City. You may backtrack to these areas at any time to add to your Team
@@ -32,7 +31,6 @@ This is a fun, narrative-driven challenge and therefore there are no Nuzlocke-st
 - The D6 roll is important (1-2 Grass, 3-4 Fire, 5-6 Water) because it prevents you from effectively selecting an easier type for your rival’s first partner Pokemon (now that you won’t have your own Gen 3 first partner going forward)
   
 - The selection of wild Pokemon available is actually very diverse and there are some really interesting evolution lines to explore. You should have enough variety in your team to cover all major HMs
-  
 
 ### Useful Links
 
