@@ -1,6 +1,5 @@
 # Game list 2024
 
-| Syntax      | Description | Example | Example | Example |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Game title | System | Genre | Link |
+| --- | --- | --- | --- |
+| Example game here | PS1 | Shooter | Video link here |
