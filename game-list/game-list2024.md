@@ -2,4 +2,5 @@
 
 | Image | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- | :----- |
-| ![Image](poke-stuff/img/petalburg-challenge.jpg) | Star Wars Battlefront | PS2 | Third-person Shooter | Link here | 
+| ![Image](Doom-no-rest-for-the-living1.jpg) | Star Wars Battlefront | PS2 | Third-person Shooter | Link here | 
+
