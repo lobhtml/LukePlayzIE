@@ -2,4 +2,4 @@
 
 | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- |
-| Example 1 | PS1 | Shooter | Link here | 
+| Star Wars Battlefront | PS2 | Third-person Shooter | Link here | 
