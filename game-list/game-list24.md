@@ -2,6 +2,8 @@
 
 | Image | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- | :----- |
+| ![Image](game-art/game-art24/Arena-1.jpg) | The Elder Scrolls: Arena | PC | Action/RPG | [Video link](https://www.youtube.com/watch?v=KO6hgXiXOgI) | 
+| ![Image](game-art/game-art24/Dangan-gbc.jpg) | Dangan GB/Dangan GB2 | GB/GBC | Bullet Hell/Shoot em up | [Video link](https://www.youtube.com/watch?v=byOSq130tXk) | 
 | ![Image](game-art/game-art24/Demo-mix-2.jpg) | Chernobyl Radiation/Red Blue Cell | PC | Mystery/Shoot em up | [Video link](https://www.youtube.com/watch?v=f7ssExaiTXI) | 
 | ![Image](game-art/game-art24/Halo-gbc.jpg) | Halo: Combat Devolved | GBC | Shooter | [Video link](https://www.youtube.com/watch?v=Bvuorhj-mHE) | 
 | ![Image](game-art/game-art24/Picket-Machine.jpg) | Halloween Picket Maze/The Machine | PC/GBC | Puzzle/RPG | [Video link](https://www.youtube.com/watch?v=o-HgF20goFc) | 
