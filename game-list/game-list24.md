@@ -2,6 +2,7 @@
 
 | Image | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- | :----- |
+  | ![Image](game-art/game-art24/Halo-gbc.jpg) | Halo: Combat Devolved | GBC | Shooter | [Video link](https://www.youtube.com/watch?v=Bvuorhj-mHE) | 
 | ![Image](game-art/game-art24/Picket-Machine.jpg) | Halloween Picket Maze/The Machine | PC/GBC | Puzzle/RPG | [Video link](https://www.youtube.com/watch?v=o-HgF20goFc) | 
 | ![Image](game-art/game-art24/Move-out-manor.jpg) | Move Out Manor | PC | Puzzle | [Video link](https://www.youtube.com/watch?v=uuBfhfsSrhY) | 
 | ![Image](game-art/game-art24/steel-legion-1.jpg) | Steel Legion | NES | Action/Platformer | [Video link](https://www.youtube.com/watch?v=X6g2X9bZzhI) | 
