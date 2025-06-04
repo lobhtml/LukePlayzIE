@@ -2,6 +2,7 @@
 
 | Image | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- | :----- |
+| ![Image](game-art/game-art24/Rally-1.jpg) | Rush Rally 3 | PC | Driving/Racing | [Video link](https://www.youtube.com/watch?v=R8D4D5EL6gE) | 
 | ![Image](game-art/game-art24/Black-castle-1.jpg) | Black Castle | GB | Action/Platformer | [Video link](https://www.youtube.com/watch?v=gQvXW-WL1X8) | 
 | ![Image](game-art/game-art24/Overdriven-1.jpg) | Overdriven Reloaded | PC | Bullet Hell/Shoot em up | [Video link](https://www.youtube.com/watch?v=N0Niwt1MDDI) | 
 | ![Image](game-art/game-art24/Xydonia-1.jpg) | XYDONIA | PC | Bullet Hell/Shoot em up | [Video link](https://www.youtube.com/watch?v=ltXyW2xxi-I) | 
