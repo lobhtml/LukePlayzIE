@@ -2,6 +2,7 @@
 
 | Image | Game title | System | Genre | Link |
 | :----- | :----- | :----- | :----- | :----- |
+| ![Image](game-art/game-art24/Black-castle-1.jpg) | Black Castle | GB | Action/Platformer | [Video link](https://www.youtube.com/watch?v=gQvXW-WL1X8) | 
 | ![Image](game-art/game-art24/Overdriven-1.jpg) | Overdriven Reloaded | PC | Bullet Hell/Shoot em up | [Video link](https://www.youtube.com/watch?v=N0Niwt1MDDI) | 
 | ![Image](game-art/game-art24/Xydonia-1.jpg) | XYDONIA | PC | Bullet Hell/Shoot em up | [Video link](https://www.youtube.com/watch?v=ltXyW2xxi-I) | 
 | ![Image](game-art/game-art24/Arena-1.jpg) | The Elder Scrolls: Arena | PC | Action/RPG | [Video link](https://www.youtube.com/watch?v=KO6hgXiXOgI) | 
