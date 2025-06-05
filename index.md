@@ -1,5 +1,6 @@
 ---
-title: LukePlayzIE - Index
+layout: post
+title: Blogging Like a Hacker
 ---
 
 # Game list
