@@ -1,5 +1,5 @@
 ---
-layout: home
+title: LukePlayzIE - Index
 ---
 
 # Game list
