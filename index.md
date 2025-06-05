@@ -1,5 +1,5 @@
 ---
-title: ![Index](index.md)LukePlayzIE
+title: LukePlayzIE
 ---
 
 # Game list
