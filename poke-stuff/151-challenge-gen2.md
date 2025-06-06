@@ -1,11 +1,3 @@
----
-layout: post
-title: "Welcome to my blog"
-date: 2025-01-01
-categories: blog
-tags: [welcome, introduction]
----
-
 # Pokemon 151 Challenge (Gen 2)
 
 Updated 02/06/2025
