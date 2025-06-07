@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Browse
 ---
 
 # Poke stuff
