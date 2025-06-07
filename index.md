@@ -1,5 +1,5 @@
 ---
-title: Browse
+title: Home
 ---
 
 ![Favicon](gif2.gif)
