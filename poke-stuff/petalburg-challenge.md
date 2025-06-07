@@ -26,7 +26,7 @@ This is a fun, narrative-driven challenge and therefore there are no Nuzlocke-st
 
 - The wild areas you will have access to are Route 101, Route 102, Route 103 and the water areas within Petalburg City. You may backtrack to these areas at any time to add to your Team
   
-- The wild areas you will have access to are Route 101, Route 102, Route 103 and the water areas within Petalburg City. You may backtrack to these areas at any time to add to your Team
+- Surf is not permitted as a method to catch Pokemon because it would bring you beyond areas accessible in the early game (and therefore farther from home)
   
 - The D6 roll is important (1-2 Grass, 3-4 Fire, 5-6 Water) because it prevents you from effectively selecting an easier type for your rival’s first partner Pokemon (now that you won’t have your own Gen 3 first partner going forward)
   
