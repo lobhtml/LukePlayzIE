@@ -11,3 +11,7 @@
   body img {
     max-width: 100%;
   }
+
+.container-lg px-3 my-5 markdown-body {
+      max-width: 100%;
+}
