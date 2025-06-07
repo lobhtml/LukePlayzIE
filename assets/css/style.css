@@ -1,7 +1,6 @@
   body {
     background-color: white;
     color: black;
-    padding: 10px;
     margin: auto;
     font-family: sans-serif;
     width: 1000px;
@@ -14,4 +13,5 @@
 
 .container-lg px-3 my-5 markdown-body {
       max-width: 100%;
+      margin: 10px;
 }
