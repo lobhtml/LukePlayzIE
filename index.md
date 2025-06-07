@@ -2,7 +2,7 @@
 title: Browse
 ---
 
-![Favicon](favicon-png256.png)
+![Favicon](favicon.ico)
 
 # Poke stuff
 - [Pokemon 151 Challenge - Gen 2](poke-stuff/151-challenge-gen2.md)
